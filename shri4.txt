@@ -1,13 +1,11 @@
 sasda
 sdsa
 sdasd
-<<<<<<< HEAD
 ghgfh
 ghfh
 dsfs
 dfdfs
 dfs
->>>>>>> firstbranch
 sssa
 sdsdsa
 asdsa
